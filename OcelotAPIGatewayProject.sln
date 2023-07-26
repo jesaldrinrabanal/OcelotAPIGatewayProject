@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherService", "TeacherSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentService", "StudentService\StudentService.csproj", "{315B959E-E29B-47FF-BCEF-232FC2772EE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcelotGateway", "OcelotGateway\OcelotGateway.csproj", "{AA9332CC-1A04-4E02-8353-D2B0E85EA187}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{315B959E-E29B-47FF-BCEF-232FC2772EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{315B959E-E29B-47FF-BCEF-232FC2772EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{315B959E-E29B-47FF-BCEF-232FC2772EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA9332CC-1A04-4E02-8353-D2B0E85EA187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9332CC-1A04-4E02-8353-D2B0E85EA187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9332CC-1A04-4E02-8353-D2B0E85EA187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9332CC-1A04-4E02-8353-D2B0E85EA187}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
